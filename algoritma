@@ -1,0 +1,19 @@
+//soal nomor 1 
+//algoritma deteksi palindrom
+1. Mulai
+2. Masukkan kata
+3. Validasi kata terdiri dari huruf
+4. Memberikan id input sebagai “OriginalStr”
+5. Memasukkan ke dalam proses reverse string
+6. Jika, hasil reverse string sama dengan input maka output palindrom, dan jika, hasil reverse string tidak sama dengan input maka output non-palindrom
+7. Selesai
+
+//soal nomor 2
+//algoritma reversed sentence
+1. Mulai
+2. Masukkan kalimat yang akan diubah urutan katanya.
+3. Masukkan setiap kata dari kalimat sebagai string dalam sebuah array.
+4. Inisialisasi sebuah variabel kosong untuk menyimpan kalimat baru.
+5. Ambil satu per satu kata dari array, lalu masukkan kata ke dalam kalimat baru.
+6. Tampilkan kalimat baru sebagai output.
+7. Selesai
